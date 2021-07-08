@@ -1,2 +1,2 @@
 # Travel-Agency-Website
-This is a Travel gency Website
+This is a Travel Agency Website
